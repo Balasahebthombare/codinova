@@ -1,0 +1,13 @@
+.gif{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.gif img{
+    max-width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
